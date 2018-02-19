@@ -1,8 +1,32 @@
-# hello-world
-This is my first repository
+# Sample Code
 
-This is my first edit. I am learning how to use GitHub. I like learning things because it makes me fel smart.
+This program shows how to use the print function to display the results of simple arithmetic. 
+
+## Outline
 
 
+## How to Run
+To run this code, go to terminal or command prompt and run 
 
-Hi .. this is written in VS Code.
+
+```
+Python test.py
+```
+
+
+## Content
+
+This piece of code demonstrates basic arithmatic functions in Python.
+The functions showcased in `test.py` include:
+
+- print
+- addition
+- subtraction
+- division
+
+## Example Code
+
+An example of addition in `test.py` is:
+```Python
+print (a + b)
+```
