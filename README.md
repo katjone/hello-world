@@ -3,8 +3,8 @@
 This program shows how to use the print function to display the results of simple arithmetic. 
 
 ## Outline
-* [How to Run](## How to Run)
-* Content
+* [How to Run](#howtorun)
+* [Content](#content)
 * Example Code
 
 ## How to Run
