@@ -19,7 +19,7 @@ Python test.py
 ## Content
 
 This piece of code demonstrates basic arithmatic functions in Python.
-The functions showcased in `test.py` include:
+The functions showcased in [test.py](test.py) include:
 
 - print
 - addition
