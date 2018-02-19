@@ -3,7 +3,7 @@
 This program shows how to use the print function to display the results of simple arithmetic. 
 
 ## Outline
-* How to Run
+* [How to Run](## How to Run)
 * Content
 * Example Code
 
@@ -18,7 +18,7 @@ Python test.py
 
 ## Content
 
-This piece of code demonstrates basic arithmatic functions in Python.
+This piece of code demonstrates basic arithematic functions in Python.
 The functions showcased in [test.py](test.py) include:
 
 - print
