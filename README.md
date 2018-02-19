@@ -28,7 +28,7 @@ The functions showcased in [test.py](test.py) include:
 
 ## Example Code
 
-An example of addition in [test.py](test.py) is:
+An example of addition in [here](test.py) is:
 ```Python
 print (a + b)
 ```
