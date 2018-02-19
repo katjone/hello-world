@@ -3,9 +3,9 @@
 This program shows how to use the print function to display the results of simple arithmetic. 
 
 ## Outline
-How to Run
-Content
-Example Code
+* How to Run
+* Content
+* Example Code
 
 ## How to Run
 To run this code, go to terminal or command prompt and run 
