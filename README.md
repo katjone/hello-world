@@ -5,7 +5,7 @@ This program shows how to use the print function to display the results of simpl
 ## Outline
 * [How to Run](#howtorun)
 * [Content](#content)
-* Example Code
+* [Example Code](#examplecode)
 
 ## How to Run
 To run this code, go to terminal or command prompt and run 
