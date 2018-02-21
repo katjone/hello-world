@@ -4,8 +4,8 @@
 
 I wrote this code to practice defining and performing functions on variables. 
 
-### Outline
-- [_HowtoRun_](How to Run)
+## Outline
+- [_How to Run_](how-to-run)
 - [_Content_](Content)
 - [_Example_](Example)
 
@@ -18,6 +18,7 @@ Python variables.py
 ```
 
 ## Content
+
 First, I learned about types of variables, including integers, floats, strings, and finally introduced lists as variables. We did some basic arithematic operations using variables. It felt very much like doing algebra.
 Then, I created a list variable, which was a set of numbers, and performed the following functions on it:
 
