@@ -20,6 +20,7 @@ Python variables.py
 ## Content
 
 First, I learned about types of variables, including integers, floats, strings, and finally introduced lists as variables. We did some basic arithematic operations using variables. It felt very much like doing algebra.
+
 Then, I created a list variable, which was a set of numbers, and performed the following functions on it:
 
 - **print()**
