@@ -90,5 +90,5 @@ print(numbers.count(75))
 print(numbers.sort())
 print(numbers)
 
-numbers.index()
+numbers.index(1)
 print(numbers)
