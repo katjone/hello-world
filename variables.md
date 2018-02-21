@@ -5,9 +5,9 @@
 I wrote this code to practice defining and performing functions on variables. 
 
 ### Outline
-- ####[How to Run](How to Run)
-- ####[Content](Content)
-- ####[Example](Example)
+- [####HowtoRun](How to Run)
+- [####Content](Content)
+- [####Example](Example)
 
 ## How to Run
 
