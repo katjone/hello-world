@@ -7,7 +7,7 @@ I wrote this code to practice defining and performing functions on variables.
 ## Outline
 - [_How to Run_](how-to-run)
 - [_Content_](Content)
-- [_Example_](Example)
+- [_The Functions I Learned Today_](the-functions-i-learned-today)
 
 ## How to Run
 
@@ -31,9 +31,9 @@ Then, I created a list variable, which was a set of numbers, and performed the f
 - **index()**
 - **len()**
 
-## Example 
+## The Functions I Learned Today
 
-Here I show how I used the **append** function in this program.
+Here I show how I used the `append` function in this program.
 
 First, I defined the variable _numbers_, a list variable.
 
