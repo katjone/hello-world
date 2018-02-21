@@ -33,7 +33,7 @@ Then, I created a list variable, which was a set of numbers, and performed the f
 
 ## The Functions I Learned Today
 
-Here I show how I used the `append` function in this program.
+Here I show how I used the `append()` function in this program.
 
 First, I defined the variable _numbers_, a list variable.
 
