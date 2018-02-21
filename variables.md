@@ -41,14 +41,14 @@ First, I defined the variable _numbers_, a list variable.
 numbers = [34, 3, 5, 1, 49]
 ```
 
-Then, I used the **append** function to add an element, 45, to numbers. Following that is the **print** function to display the addition of 45 to _numbers_.
+Then, I used the `append()` function to add an element, 45, to `numbers`. Following that is the `print()` function to display the addition of 45 to `numbers`.
 
 ```Python
 numbers.append(45)
 
 print(numbers)
 ```
-45 is added at the end of _numbers_.
+45 is added at the end of `numbers`.
 
 ```Python
 [34, 3, 5, 1, 49, 45]
